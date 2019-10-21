@@ -1,2 +1,5 @@
 1. Learn git hub
+2. learn torise
+
+
 
